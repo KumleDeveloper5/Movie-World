@@ -1,0 +1,10 @@
+#lk{
+     color:gray;
+	border-radius:20px;
+  
+}
+#lk:hover{
+	border-color:red;
+	color:red;
+	
+}
